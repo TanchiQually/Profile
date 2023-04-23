@@ -1,5 +1,6 @@
 # portfolio
-Simple and basic example portfolio for anyone. Made using HTML, CSS and Javascript.
+Simple and basic example portfolio for anyone from https://github.com/V1li/portfolio.git. 
+Made using HTML, CSS and Javascript.
 
 ## Images
 
